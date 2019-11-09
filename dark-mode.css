@@ -1,0 +1,91 @@
+body.darkmode{
+    background-color: var(--cool-gray-20);
+}
+
+.darkmode .navbar-wrapper{
+  background-color: var(--cool-gray-40);
+  color: var(--cool-gray-80);
+}
+
+.darkmode .navbar-content .nav-left .logo{
+  color: #fff;
+}
+
+.darkmode .subheader-main h3{
+    color: var(--cool-gray-80);
+}
+
+.darkmode .navbar-content .nav-right .search-bar input {
+    background-color: var(--cool-gray-40);
+    border: 1px solid var(--cool-gray-60);
+  }
+
+.darkmode .card{
+    background-color: var(--cool-gray-30);
+}
+
+.darkmode .card h3{
+    color: var(--cool-gray-95);
+    font-weight: 400;
+}
+
+.darkmode .card p{
+    color: var(--cool-gray-80);
+}
+
+.darkmode .card .card-header{
+    border-bottom: 1px solid var(--cool-gray-40);
+}
+
+.darkmode .card .card-alert{
+    background-color: var(--cool-gray-40);
+    color: var(--cool-gray-90);
+}
+
+.darkmode .card .card-alert .alert-icon{
+    color: #fff;
+}
+
+.darkmode .input-group label{
+    color: var(--cool-gray-90);
+}
+
+.darkmode .input-group input{
+    background-color: var(--cool-gray-30);
+    border: 1px solid var(--cool-gray-60);
+    color: #fff;
+}
+
+.darkmode .input-group textarea{
+    background-color: var(--cool-gray-30);
+    border: 1px solid var(--cool-gray-60);
+    color: #fff;
+}
+
+.darkmode .input-group select{
+    background-color: var(--cool-gray-30);
+    border: 1px solid var(--cool-gray-60);
+    color: #fff;
+}
+
+.darkmode .btn-secondary{
+    background-color: var(--cool-gray-30);
+    color: var(--cool-gray-90);
+    border: 1px solid var(--cool-gray-60);
+}
+
+.darkmode .btn-secondary:hover{
+    background-color: var(--cool-gray-40);
+    color: var(--cool-gray-95);
+    border: 1px solid var(--cool-gray-80);
+}
+
+.darkmode .btn-link{
+    background-color: var(--cool-gray-30);
+    color: #fff;
+}
+
+.darkmode .btn-disabled{
+    background-color: var(--cool-gray-50);
+    color: var(--cool-gray-20);
+}
